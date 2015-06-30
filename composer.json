@@ -1,0 +1,6 @@
+{
+    "require": {
+        "silex/silex": "~1.3",
+		"liuggio/statsd-php-client": "v1.0.16"
+    }
+}
